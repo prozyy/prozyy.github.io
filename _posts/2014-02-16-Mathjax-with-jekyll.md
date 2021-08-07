@@ -64,7 +64,7 @@ $$a^2 + b^2 = c^2$$
 How do you write such expression? Very simple: using **double dollar** signs
 
 {% highlight r %}
-$$a^2 + b^2 = c^2$$
+$$ a^2 + b^2 = c^2 $$
 {% endhighlight %}
 
 To display inline math use ```\\( ... \\)``` like this ```\\( sin(x^2) \\)``` which gets
